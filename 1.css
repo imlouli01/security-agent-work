@@ -1,0 +1,44 @@
+body {
+    background-color: rgb(131, 173, 201);
+    background: linear-gradient(to left, #c65eba, #4ba9cc);
+}
+h1 {
+    font-weight: bold;
+    font-style: italic;
+    text-align: center;
+    text-decoration: underline;
+    text-transform: capitalize;
+}
+.a {
+        margin: 0 auto; /* This centers the container horizontally */
+        width: 80%; /* You can adjust the width as per your requirement */
+        border-collapse: collapse;
+}
+td {
+    width: 200px;
+    border: 1px solid black;
+    padding: 10px;
+    text-align: center;
+}
+div {
+    margin: 50px;
+    font-family:  Verdana, sans-serif;
+    text-transform: lowercase;
+}
+.b{
+    font-weight: bold;
+}
+.c {
+    font-weight: bold;
+    text-decoration: underline;
+    text-transform: capitalize;
+    font-style: italic;
+    width: 200px;
+    border: 1px solid black;
+    padding: 10px;
+    text-align: center;
+}
+.y {
+    font-weight: bold;
+    text-align: left;
+}
